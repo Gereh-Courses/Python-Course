@@ -29,6 +29,7 @@ This project is a Python implementation of the popular puzzle game, 2048, using 
 
 - Python 3.x
 - Pygame library
+- NumPy (Numerical Python) library
 
 To install Pygame, run:
 
