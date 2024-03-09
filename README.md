@@ -30,12 +30,10 @@ This project is a Python implementation of the popular puzzle game, 2048, using 
 To install Pygame, run:
 
 ```
-pip install pygame
+pip install pygame numpy
+
 ```
-چ
-```
-pip install numpy
-```
+
 
 
 ## Running the Game
