@@ -46,13 +46,6 @@ To start the game, navigate to the directory containing the game files and run:
 python code.py
 ```
 
-## Future Enhancements
-
-- Saving and loading game state.
-- Adding animations for merging tiles.
-- Implementing an undo move feature.
-- High score leaderboard.
-
 ## License
 
 This project is open-source and available under the MIT License. Feel free to fork, modify, and use it in your own projects.
