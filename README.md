@@ -31,7 +31,6 @@ To install Pygame, run:
 
 ```
 pip install pygame numpy
-
 ```
 
 
