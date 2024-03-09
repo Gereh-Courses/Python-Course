@@ -4,6 +4,7 @@
 ## Project Overview
 
 This project is a Python implementation of the popular puzzle game, 2048, using the Pygame library. The game operates on a 4x4 grid where the player combines tiles with the same numbers to form larger numbers, aiming to reach the 2048 tile. The game ends when the grid is full and no more moves are possible.
+
 ![2048 Game](https://www.coolmathgames.com/sites/default/files/2048_OG-logo.jpg)
 
 
