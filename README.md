@@ -57,6 +57,3 @@ python code.py
 
 This project is open-source and available under the MIT License. Feel free to fork, modify, and use it in your own projects.
 
----
-
-Remember to adjust the content based on the specifics of your implementation and any additional features you might have added. This template provides a structured way to present your project on GitHub, making it accessible and understandable for other developers and users interested in your work.
